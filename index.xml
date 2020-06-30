@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evan Edmond</title>
+    <link>https://Craskermasker.github.io/</link>
+      <atom:link href="https://Craskermasker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evan Edmond</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 13:50:31 +0100</lastBuildDate>
+    <image>
+      <url>https://Craskermasker.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Evan Edmond</title>
+      <link>https://Craskermasker.github.io/</link>
+    </image>
+    
+    <item>
+      <title>2020 Association of British Neurologists Annual Meeting</title>
+      <link>https://Craskermasker.github.io/talk/2020-abn/</link>
+      <pubDate>Fri, 16 Oct 2020 13:50:31 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/talk/2020-abn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoboDoc: Critical ethical issues to consider for the design and development of a robotic doctor experience</title>
+      <link>https://Craskermasker.github.io/publication/edmond-2020-robodoc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-2020-robodoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>027 Promoting atraumatic needle usage for lumbar puncture in neurology: the power of the default</title>
+      <link>https://Craskermasker.github.io/publication/holland-2019027/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/holland-2019027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>267 Motor system biomarkers in amyotrophic lateral sclerosis</title>
+      <link>https://Craskermasker.github.io/publication/edmond-2019267/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-2019267/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor system biomarkers in amyotrophic lateral sclerosis</title>
+      <link>https://Craskermasker.github.io/publication/turner-2019-motor/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/turner-2019-motor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapeutic non-invasive brain stimulation in amyotrophic lateral sclerosis: rationale, methods and experience</title>
+      <link>https://Craskermasker.github.io/publication/edmond-2019-therapeutic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-2019-therapeutic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating a Personal Information Pack for Patients with Epilepsy</title>
+      <link>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationship of perivascular adipose tissue and atherosclerosis in the aorta and carotid arteries, determined by magnetic resonance imaging</title>
+      <link>https://Craskermasker.github.io/publication/alkhalil-2018-relationship/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/alkhalil-2018-relationship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THUR 075 Evaluating a personal information pack in epilepsy</title>
+      <link>https://Craskermasker.github.io/publication/edmond-2018-thur/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-2018-thur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injuries in quidditch: a descriptive epidemiological study</title>
+      <link>https://Craskermasker.github.io/publication/pennington-2017-injuries/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/pennington-2017-injuries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hemifacial spasm: Objective computation of vertebrobasilar vascular sinuosity: 1171</title>
+      <link>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readout segmented echo planar diffusion-weighted imaging improves image distortion at the cost of infarct discrimination in acute stroke.</title>
+      <link>https://Craskermasker.github.io/publication/ec-2016-readout/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/ec-2016-readout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vascular tortuosity in relationship with hypertension and posterior fossa volume in hemifacial spasm</title>
+      <link>https://Craskermasker.github.io/publication/edmond-2016-vascular/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-2016-vascular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5 years of tacrolimus preloading in live donor kidney transplantation.</title>
+      <link>https://Craskermasker.github.io/publication/edmond-20155/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/edmond-20155/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adipose tissue surrounding diseased coronary arteries demon-strates a pro-atherogenic profile</title>
+      <link>https://Craskermasker.github.io/publication/digby-2010-adipose/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/publication/digby-2010-adipose/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
