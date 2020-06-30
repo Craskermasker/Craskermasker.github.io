@@ -25,10 +25,10 @@
       <link>https://Craskermasker.github.io/post/hello-world/</link>
       <pubDate>Tue, 30 Jun 2020 18:42:17 +0100</pubDate>
       <guid>https://Craskermasker.github.io/post/hello-world/</guid>
-      <description>&lt;p&gt;This was surprisingly easy to set up! The guide to getting started here is excellent:&lt;br&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34;&gt;https://sourcethemes.com/academic/docs/install/&lt;/a&gt;&lt;br&gt;
-Deployment is done using Github Pages, and I got a custom domain name for this - setting up DNS forwarding was the most difficult part but worked on following the guide here:&lt;br&gt;
-&lt;a href=&#34;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&#34;&gt;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This was surprisingly easy to set up! The guide to getting started here is excellent:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34;&gt;https://sourcethemes.com/academic/docs/install/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Deployment is done using Github Pages, and I got a custom domain name for this - setting up DNS forwarding was the most difficult part but worked on following the guide here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&#34;&gt;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
