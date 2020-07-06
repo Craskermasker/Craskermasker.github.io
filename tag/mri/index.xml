@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MRI | Evan Edmond</title>
+    <link>https://Craskermasker.github.io/tag/mri/</link>
+      <atom:link href="https://Craskermasker.github.io/tag/mri/index.xml" rel="self" type="application/rss+xml" />
+    <description>MRI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 20:20:40 +0100</lastBuildDate>
+    <image>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_2.png</url>
+      <title>MRI</title>
+      <link>https://Craskermasker.github.io/tag/mri/</link>
+    </image>
+    
+    <item>
+      <title>MRSI</title>
+      <link>https://Craskermasker.github.io/project/mrsi/</link>
+      <pubDate>Thu, 02 Jul 2020 20:20:40 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/project/mrsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>task fMRI</title>
+      <link>https://Craskermasker.github.io/project/fmri/</link>
+      <pubDate>Thu, 02 Jul 2020 20:15:03 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/project/fmri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

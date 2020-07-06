@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching | Evan Edmond</title>
+    <link>https://Craskermasker.github.io/tag/teaching/</link>
+      <atom:link href="https://Craskermasker.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 18:38:24 +0100</lastBuildDate>
+    <image>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_2.png</url>
+      <title>teaching</title>
+      <link>https://Craskermasker.github.io/tag/teaching/</link>
+    </image>
+    
+    <item>
+      <title>GTC coding series</title>
+      <link>https://Craskermasker.github.io/project/gtc-coding-series/</link>
+      <pubDate>Tue, 30 Jun 2020 18:38:24 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/project/gtc-coding-series/</guid>
+      <description>&lt;p&gt;A series of interactive tutorials aimed at medical students. While this mainly consists of links to better resources, I have put together a few very brief interactive notebooks to give a taste of what can be done.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -23,13 +23,28 @@
   </url>
   
   <url>
+    <loc>https://Craskermasker.github.io/tag/clinical/</loc>
+    <lastmod>2020-07-03T13:01:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Craskermasker.github.io/project/</loc>
+    <lastmod>2020-07-03T13:01:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Craskermasker.github.io/tags/</loc>
     <lastmod>2020-07-03T13:01:16+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://Craskermasker.github.io/blog/</loc>
     <lastmod>2020-07-02T21:49:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Craskermasker.github.io/tag/mri/</loc>
+    <lastmod>2020-07-02T20:20:40+01:00</lastmod>
   </url>
   
   <url>
@@ -48,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://Craskermasker.github.io/tag/tms/</loc>
+    <lastmod>2020-06-30T22:33:06+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Craskermasker.github.io/post/hello-world/</loc>
     <lastmod>2020-06-30T18:42:17+01:00</lastmod>
   </url>
@@ -59,6 +79,11 @@
   
   <url>
     <loc>https://Craskermasker.github.io/project/gtc-coding-series/</loc>
+    <lastmod>2020-06-30T18:38:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Craskermasker.github.io/tag/teaching/</loc>
     <lastmod>2020-06-30T18:38:24+01:00</lastmod>
   </url>
   
@@ -418,10 +443,6 @@
   
   <url>
     <loc>https://Craskermasker.github.io/author/evan-edmond/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Craskermasker.github.io/tags/</loc>
   </url>
   
 </urlset>
