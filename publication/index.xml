@@ -5,12 +5,20 @@
     <link>https://Craskermasker.github.io/publication/</link>
       <atom:link href="https://Craskermasker.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 13:38:18 +0100</lastBuildDate>
     <image>
       <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://Craskermasker.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A nudge towards better lumbar puncture practice</title>
+      <link>https://Craskermasker.github.io/publication/holland-2020-nudge/</link>
+      <pubDate>Wed, 16 Sep 2020 13:38:18 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/publication/holland-2020-nudge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RoboDoc: Critical ethical issues to consider for the design and development of a robotic doctor experience</title>
