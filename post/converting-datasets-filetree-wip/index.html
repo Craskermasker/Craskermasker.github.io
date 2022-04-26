@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="Converting the structure of structured imaging datasets is tricky. I had to do this for a consolidated analysis and have found the file_tree module took much of the hassle out. Work is in progress on incorporating this functionality in the module itself.">
+  <meta name="description" content="We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky. I recently did this for a consolidated analysis and found that Michiel Cottaar&rsquo;s file_tree module took much of the hassle out.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://Craskermasker.github.io/post/converting-datasets-filetree-wip/">
@@ -233,8 +233,8 @@
   
   <meta property="og:site_name" content="Evan Edmond">
   <meta property="og:url" content="https://Craskermasker.github.io/post/converting-datasets-filetree-wip/">
-  <meta property="og:title" content="Converting Datasets with file_tree - Work in Progress | Evan Edmond">
-  <meta property="og:description" content="Converting the structure of structured imaging datasets is tricky. I had to do this for a consolidated analysis and have found the file_tree module took much of the hassle out. Work is in progress on incorporating this functionality in the module itself."><meta property="og:image" content="https://Craskermasker.github.io/post/converting-datasets-filetree-wip/featured.png">
+  <meta property="og:title" content="Converting Datasets with file_tree | Evan Edmond">
+  <meta property="og:description" content="We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky. I recently did this for a consolidated analysis and found that Michiel Cottaar&rsquo;s file_tree module took much of the hassle out."><meta property="og:image" content="https://Craskermasker.github.io/post/converting-datasets-filetree-wip/featured.png">
   <meta property="twitter:image" content="https://Craskermasker.github.io/post/converting-datasets-filetree-wip/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -266,7 +266,7 @@
     "@type": "WebPage",
     "@id": "https://Craskermasker.github.io/post/converting-datasets-filetree-wip/"
   },
-  "headline": "Converting Datasets with file_tree - Work in Progress",
+  "headline": "Converting Datasets with file_tree",
   
   "image": [
     "https://Craskermasker.github.io/post/converting-datasets-filetree-wip/featured.png"
@@ -288,7 +288,7 @@
       "url": "https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Converting the structure of structured imaging datasets is tricky. I had to do this for a consolidated analysis and have found the file_tree module took much of the hassle out. Work is in progress on incorporating this functionality in the module itself."
+  "description": "We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky. I recently did this for a consolidated analysis and found that Michiel Cottaar\u0026rsquo;s file_tree module took much of the hassle out."
 }
 </script>
 
@@ -306,7 +306,7 @@
 
 
 
-  <title>Converting Datasets with file_tree - Work in Progress | Evan Edmond</title>
+  <title>Converting Datasets with file_tree | Evan Edmond</title>
 
 </head>
 
@@ -588,7 +588,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Converting Datasets with file_tree - Work in Progress</h1>
+  <h1>Converting Datasets with file_tree</h1>
 
   
 
@@ -641,10 +641,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 635px; max-height: 264px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 478px; max-height: 265px;">
   <div style="position: relative">
     <img src="/post/converting-datasets-filetree-wip/featured.png" alt="" class="featured-image">
-    <span class="article-header-caption">minimum working example</span>
+    
   </div>
 </div>
 
@@ -653,13 +653,13 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Converting the structure of structured imaging datasets is tricky.
-I had to do this for a consolidated analysis and  have found the file_tree module took much of the hassle out.
-Work is in progress on incorporating this functionality in the module itself. In the meantime I have put a minimum working example here.</p>
+      <p>We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky.
+I recently did this for a consolidated analysis and found that Michiel Cottaar&rsquo;s file_tree module took much of the hassle out.</p>
+<p>The <code>file_tree.convert</code> function can also handle making symlinks to save space and keep source data folders clean, and overwriting prevous runs.
+As an <strong>approach</strong> I found this clear, flexible and powerful.</p>
+<p>This has now been incorporated in <code>file_tree</code> (0.7.2 onwards) and a minimum working example is here:</p>
 <p><a href="https://gitlab.com/evan.edmond/filetree-convert-demo">https://gitlab.com/evan.edmond/filetree-convert-demo</a></p>
-<p>I found this particularly useful to converge several different datasets into a common 
-<a href="https://bids-specification.readthedocs.io/en/stable/index.html" target="_blank" rel="noopener">BIDS</a> space.</p>
-<p>This became as simple as writing a text file describing the structure of each dataset and the eventual desired target.</p>
+<p>First, we write a text file describing the structure of each dataset and the eventual desired target.</p>
 <p>dataset 1:</p>
 <pre><code>HV_{participant} (subj_dir)
   F3T_NNNN_NNN_{scancode} (scan_dir)
@@ -701,9 +701,8 @@ Work is in progress on incorporating this functionality in the module itself. In
       mrsi
         sub-{participant}_ses-p_slsr_csi_mcycle_pre_{block_n}.dat (mrsi_data)
 </code></pre>
-<p>Despite a range of different originating formats, it was relatively straightforward to move towards a common structure for further analyses.</p>
-<p>The specific implementation is a work in progress, but as an <strong>approach</strong> this had the benefit of clarity, portability, and flexibility.</p>
-<p>target dataset structure:</p>
+<p>Then a desired target dataset structure 
+<a href="https://bids-specification.readthedocs.io/en/stable/index.html" target="_blank" rel="noopener">BIDS</a> :</p>
 <pre><code>rawdata
  sub-{participant} (input_subj_dir)
     anat (input_anat_dir)
@@ -718,6 +717,23 @@ Work is in progress on incorporating this functionality in the module itself. In
       sub-{participant}_task-{task}_sbref.nii.gz (func_sbref)
     mrsi (input_mrsi_dir)
       sub-{participant}_vox-m1_csi_slaser_{block_n}.dat (mrsi_data)
+</code></pre>
+<p>Conversion then can be done as follows:</p>
+<pre><code class="language-python">from file_tree import FileTree, convert
+
+# Keys to convert (present in both trees)
+keys = [&quot;t1&quot;, &quot;rest&quot;, &quot;task&quot;, &quot;fmap1&quot;, &quot;fmap2&quot;]
+
+src_data = &quot;src_data&quot;       # Path to source data dir
+target_data = &quot;target_data&quot; # Path to target data dir
+stree = &quot;src.tree&quot;          # Path to source tree file
+ttree = &quot;target.tree&quot;       # Path to target tree file
+
+
+src_read = FileTree.read(stree, src_data).update_glob(keys)
+target_read = FileTree.read(ttree, target_data)
+
+convert(src_read, target_read, keys, symlink=True)
 </code></pre>
 
     </div>
@@ -742,7 +758,7 @@ Work is in progress on incorporating this functionality in the module itself. In
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;text=Converting%20Datasets%20with%20file_tree%20-%20Work%20in%20Progress" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;text=Converting%20Datasets%20with%20file_tree" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -755,7 +771,7 @@ Work is in progress on incorporating this functionality in the module itself. In
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;t=Converting%20Datasets%20with%20file_tree%20-%20Work%20in%20Progress" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;t=Converting%20Datasets%20with%20file_tree" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -768,7 +784,7 @@ Work is in progress on incorporating this functionality in the module itself. In
       
       
       <li>
-        <a href="mailto:?subject=Converting%20Datasets%20with%20file_tree%20-%20Work%20in%20Progress&amp;body=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Converting%20Datasets%20with%20file_tree&amp;body=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -781,7 +797,7 @@ Work is in progress on incorporating this functionality in the module itself. In
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;title=Converting%20Datasets%20with%20file_tree%20-%20Work%20in%20Progress" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;title=Converting%20Datasets%20with%20file_tree" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -794,7 +810,7 @@ Work is in progress on incorporating this functionality in the module itself. In
       
       
       <li>
-        <a href="whatsapp://send?text=Converting%20Datasets%20with%20file_tree%20-%20Work%20in%20Progress%20https://Craskermasker.github.io/post/converting-datasets-filetree-wip/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Converting%20Datasets%20with%20file_tree%20https://Craskermasker.github.io/post/converting-datasets-filetree-wip/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -807,7 +823,7 @@ Work is in progress on incorporating this functionality in the module itself. In
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;title=Converting%20Datasets%20with%20file_tree%20-%20Work%20in%20Progress" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://Craskermasker.github.io/post/converting-datasets-filetree-wip/&amp;title=Converting%20Datasets%20with%20file_tree" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

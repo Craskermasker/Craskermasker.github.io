@@ -13,17 +13,17 @@
     </image>
     
     <item>
-      <title>Converting Datasets with file_tree - Work in Progress</title>
+      <title>Converting Datasets with file_tree</title>
       <link>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</link>
       <pubDate>Tue, 26 Apr 2022 14:25:58 +0100</pubDate>
       <guid>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</guid>
-      <description>&lt;p&gt;Converting the structure of structured imaging datasets is tricky.
-I had to do this for a consolidated analysis and  have found the file_tree module took much of the hassle out.
-Work is in progress on incorporating this functionality in the module itself. In the meantime I have put a minimum working example here.&lt;/p&gt;
+      <description>&lt;p&gt;We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky.
+I recently did this for a consolidated analysis and found that Michiel Cottaar&amp;rsquo;s file_tree module took much of the hassle out.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;file_tree.convert&lt;/code&gt; function can also handle making symlinks to save space and keep source data folders clean, and overwriting prevous runs.
+As an &lt;strong&gt;approach&lt;/strong&gt; I found this clear, flexible and powerful.&lt;/p&gt;
+&lt;p&gt;This has now been incorporated in &lt;code&gt;file_tree&lt;/code&gt; (0.7.2 onwards) and a minimum working example is here:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://gitlab.com/evan.edmond/filetree-convert-demo&#34;&gt;https://gitlab.com/evan.edmond/filetree-convert-demo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I found this particularly useful to converge several different datasets into a common 
-&lt;a href=&#34;https://bids-specification.readthedocs.io/en/stable/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIDS&lt;/a&gt; space.&lt;/p&gt;
-&lt;p&gt;This became as simple as writing a text file describing the structure of each dataset and the eventual desired target.&lt;/p&gt;
+&lt;p&gt;First, we write a text file describing the structure of each dataset and the eventual desired target.&lt;/p&gt;
 &lt;p&gt;dataset 1:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;HV_{participant} (subj_dir)
   F3T_NNNN_NNN_{scancode} (scan_dir)
@@ -65,9 +65,8 @@ Work is in progress on incorporating this functionality in the module itself. In
       mrsi
         sub-{participant}_ses-p_slsr_csi_mcycle_pre_{block_n}.dat (mrsi_data)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Despite a range of different originating formats, it was relatively straightforward to move towards a common structure for further analyses.&lt;/p&gt;
-&lt;p&gt;The specific implementation is a work in progress, but as an &lt;strong&gt;approach&lt;/strong&gt; this had the benefit of clarity, portability, and flexibility.&lt;/p&gt;
-&lt;p&gt;target dataset structure:&lt;/p&gt;
+&lt;p&gt;Then a desired target dataset structure 
+&lt;a href=&#34;https://bids-specification.readthedocs.io/en/stable/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIDS&lt;/a&gt; :&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;rawdata
  sub-{participant} (input_subj_dir)
     anat (input_anat_dir)
@@ -82,6 +81,23 @@ Work is in progress on incorporating this functionality in the module itself. In
       sub-{participant}_task-{task}_sbref.nii.gz (func_sbref)
     mrsi (input_mrsi_dir)
       sub-{participant}_vox-m1_csi_slaser_{block_n}.dat (mrsi_data)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Conversion then can be done as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from file_tree import FileTree, convert
+
+# Keys to convert (present in both trees)
+keys = [&amp;quot;t1&amp;quot;, &amp;quot;rest&amp;quot;, &amp;quot;task&amp;quot;, &amp;quot;fmap1&amp;quot;, &amp;quot;fmap2&amp;quot;]
+
+src_data = &amp;quot;src_data&amp;quot;       # Path to source data dir
+target_data = &amp;quot;target_data&amp;quot; # Path to target data dir
+stree = &amp;quot;src.tree&amp;quot;          # Path to source tree file
+ttree = &amp;quot;target.tree&amp;quot;       # Path to target tree file
+
+
+src_read = FileTree.read(stree, src_data).update_glob(keys)
+target_read = FileTree.read(ttree, target_data)
+
+convert(src_read, target_read, keys, symlink=True)
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
