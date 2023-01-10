@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 14:25:58 +0100</lastBuildDate>
     <image>
-      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://Craskermasker.github.io/post/</link>
     </image>
@@ -22,7 +22,8 @@ I recently did this for a consolidated analysis and found that Michiel Cottaar&a
 &lt;p&gt;The &lt;code&gt;file_tree.convert&lt;/code&gt; function can also handle making symlinks to save space and keep source data folders clean, and overwriting prevous runs.
 As an &lt;strong&gt;approach&lt;/strong&gt; I found this clear, flexible and powerful.&lt;/p&gt;
 &lt;p&gt;This has now been incorporated in &lt;code&gt;file_tree&lt;/code&gt; (0.7.2 onwards) and a minimum working example is here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.com/evan.edmond/filetree-convert-demo&#34;&gt;https://gitlab.com/evan.edmond/filetree-convert-demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.com/evan.edmond/filetree-convert-demo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.com/evan.edmond/filetree-convert-demo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First, we write a text file describing the structure of each dataset and the eventual desired target.&lt;/p&gt;
 &lt;p&gt;dataset 1:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;HV_{participant} (subj_dir)
@@ -108,9 +109,11 @@ convert(src_read, target_read, keys, symlink=True)
       <pubDate>Tue, 30 Jun 2020 18:42:17 +0100</pubDate>
       <guid>https://Craskermasker.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;This was surprisingly easy to set up! The guide to getting started here is excellent:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34;&gt;https://sourcethemes.com/academic/docs/install/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sourcethemes.com/academic/docs/install/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Deployment is done using Github Pages, and I got a custom domain name for this - setting up DNS forwarding was the most difficult part but worked on following the guide here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&#34;&gt;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,468 +1,285 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://Craskermasker.github.io/talk/2022_01_mnd_genetics/</loc>
+    <lastmod>2023-01-02T14:54:38+00:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/</loc>
+    <lastmod>2023-01-02T14:54:38+00:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/talk/</loc>
+    <lastmod>2023-01-02T14:54:38+00:00</lastmod>
+  </url><url>
     <loc>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</loc>
     <lastmod>2022-04-26T14:25:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Craskermasker.github.io/</loc>
-    <lastmod>2022-04-26T14:25:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/post/</loc>
     <lastmod>2022-04-26T14:25:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/talk/2020-abn/</loc>
     <lastmod>2020-10-16T13:50:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Craskermasker.github.io/talk/</loc>
-    <lastmod>2020-10-16T13:50:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication-type/2/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/holland-2020-nudge/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/authors/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/catherine-moore/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/christian-holland/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/evan-c-edmond/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/johannes-c-klein/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/martin-r-turner/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication_types/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/vanessa-tobert/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/talk/2020_07_06_ping_labmeeting_website/</loc>
     <lastmod>2020-07-06T09:40:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/project/2020_atraumatic_needle/</loc>
     <lastmod>2020-07-03T13:01:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/tag/clinical/</loc>
     <lastmod>2020-07-03T13:01:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/project/</loc>
     <lastmod>2020-07-03T13:01:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/tags/</loc>
     <lastmod>2020-07-03T13:01:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/blog/</loc>
     <lastmod>2020-07-02T21:49:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/tag/mri/</loc>
     <lastmod>2020-07-02T20:20:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/project/mrsi/</loc>
     <lastmod>2020-07-02T20:20:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/project/fmri/</loc>
     <lastmod>2020-07-02T20:15:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/project/ctms/</loc>
     <lastmod>2020-06-30T22:33:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/tag/tms/</loc>
     <lastmod>2020-06-30T22:33:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/post/hello-world/</loc>
     <lastmod>2020-06-30T18:42:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/project/gtc-coding-series/</loc>
     <lastmod>2020-06-30T18:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/tag/teaching/</loc>
     <lastmod>2020-06-30T18:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/edmond-prakash/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/fiona-carroll/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-2020-robodoc/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication-type/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/holland-2019027/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-2019267/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/charlotte-j-stagg/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/cj-stagg/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/ec-edmond/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/evan-edmond/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/james-allen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/k-talbot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/kevin-talbot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/kirsty-durley/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/m-proudfoot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/malcolm-proudfoot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/turner-2019-motor/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/mr-turner/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/r-menke/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/ricarda-menke/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-2019-therapeutic/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/thomas-moore/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication-type/1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/a-taylor/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/alison-taylor/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/e-edmond/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/j-jacob/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/janet-e-digby/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/john-jacob/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/laurienne-edgar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/matthew-d-robson/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/mehta-arpan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/mohammad-alkhalil/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/omar-omar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/robin-p-choudhury/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/alkhalil-2018-relationship/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-2018-thur/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/alastair-faulkner/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/ashley-cooper/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/pennington-2017-injuries/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/michael-j-reidy/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/peter-se-davies/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/rachel-pennington/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/e-tan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/eng-king-tan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/evan-cyril-edmond/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/h-li/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/hui-hua-li/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/l-chan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/ling-ling-chan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/ec-2016-readout/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/s-sim/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/samantha-xue-li-sim/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-2016-vascular/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/edmond-20155/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/muthusamy-a-parry-j-edmond-ec/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication/digby-2010-adipose/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/ilias-kylintireas/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://Craskermasker.github.io/author/evan-edmond/</loc>
   </url>
-  
 </urlset>
