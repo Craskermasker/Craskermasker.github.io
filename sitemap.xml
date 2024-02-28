@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Craskermasker.github.io/</loc>
+    <lastmod>2024-02-28T10:42:52+00:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/project/</loc>
+    <lastmod>2024-02-28T10:42:52+00:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/project/web-design/</loc>
+    <lastmod>2024-02-28T10:42:52+00:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/post/</loc>
+    <lastmod>2024-02-28T10:16:25+00:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/post/decommission-wedding-website/</loc>
+    <lastmod>2024-02-28T10:16:25+00:00</lastmod>
+  </url><url>
     <loc>https://Craskermasker.github.io/publication-type/2/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
@@ -27,9 +42,6 @@
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
     <loc>https://Craskermasker.github.io/author/evan-c-edmond/</loc>
-    <lastmod>2023-03-30T13:32:08+01:00</lastmod>
-  </url><url>
-    <loc>https://Craskermasker.github.io/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
     <loc>https://Craskermasker.github.io/author/jakub-scaber/</loc>
@@ -107,9 +119,6 @@
     <loc>https://Craskermasker.github.io/tag/clinical/</loc>
     <lastmod>2023-01-10T23:22:23+00:00</lastmod>
   </url><url>
-    <loc>https://Craskermasker.github.io/project/</loc>
-    <lastmod>2023-01-10T23:22:23+00:00</lastmod>
-  </url><url>
     <loc>https://Craskermasker.github.io/tags/</loc>
     <lastmod>2023-01-10T23:22:23+00:00</lastmod>
   </url><url>
@@ -120,9 +129,6 @@
     <lastmod>2023-01-02T14:54:38+00:00</lastmod>
   </url><url>
     <loc>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</loc>
-    <lastmod>2022-04-26T14:25:58+01:00</lastmod>
-  </url><url>
-    <loc>https://Craskermasker.github.io/post/</loc>
     <lastmod>2022-04-26T14:25:58+01:00</lastmod>
   </url><url>
     <loc>https://Craskermasker.github.io/talk/2020-abn/</loc>

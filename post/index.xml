@@ -5,12 +5,27 @@
     <link>https://Craskermasker.github.io/post/</link>
       <atom:link href="https://Craskermasker.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 14:25:58 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 10:16:25 +0000</lastBuildDate>
     <image>
       <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://Craskermasker.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Wedding Website</title>
+      <link>https://Craskermasker.github.io/post/decommission-wedding-website/</link>
+      <pubDate>Wed, 28 Feb 2024 10:16:25 +0000</pubDate>
+      <guid>https://Craskermasker.github.io/post/decommission-wedding-website/</guid>
+      <description>&lt;p&gt;This is a landing page for my now decommissioned wedding website domain,
+designed with the static site builder 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; and the 
+&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-story/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Story
+theme&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is a non-functioning version of the site with personal information removed.&lt;/p&gt;
+ &lt;iframe seamless=&#34;seamless&#34; src=&#34;./public/index.html&#34; title=&#34;description&#34; width=&#34;125%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt; 
+</description>
+    </item>
     
     <item>
       <title>Converting Datasets with file_tree</title>
