@@ -5,12 +5,23 @@
     <link>https://Craskermasker.github.io/post/</link>
       <atom:link href="https://Craskermasker.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 10:16:25 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 21:20:58 +0100</lastBuildDate>
     <image>
       <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://Craskermasker.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>ABN 2025 poster presentation</title>
+      <link>https://Craskermasker.github.io/post/global-health-fellowship/</link>
+      <pubDate>Mon, 05 May 2025 21:20:58 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/post/global-health-fellowship/</guid>
+      <description>&lt;p&gt;Here is my poster 
+&lt;a href=&#34;./poster.pdf&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is my preprint WIP.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Wedding Website</title>

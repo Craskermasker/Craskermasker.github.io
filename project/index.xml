@@ -5,12 +5,20 @@
     <link>https://Craskermasker.github.io/project/</link>
       <atom:link href="https://Craskermasker.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 10:42:52 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 21:24:52 +0100</lastBuildDate>
     <image>
       <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://Craskermasker.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Global Health</title>
+      <link>https://Craskermasker.github.io/project/global-health/</link>
+      <pubDate>Mon, 05 May 2025 21:24:52 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/project/global-health/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Web Design</title>
