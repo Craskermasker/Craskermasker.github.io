@@ -25,8 +25,9 @@
       <link>https://Craskermasker.github.io/post/global-health-fellowship/</link>
       <pubDate>Mon, 05 May 2025 21:20:58 +0100</pubDate>
       <guid>https://Craskermasker.github.io/post/global-health-fellowship/</guid>
-      <description>&lt;p&gt;Here is my poster 
-&lt;a href=&#34;./poster.pdf&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Poster embedded here. 
+&lt;a href=&#34;./poster.pdf&#34;&gt;PDF download link&lt;/a&gt;
+&lt;object data=&#34;./poster.pdf&#34; type=&#34;application/pdf&#34; width=&#34;75%&#34; height=&#34;800px&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Here is my preprint WIP.&lt;/p&gt;
 </description>
     </item>
