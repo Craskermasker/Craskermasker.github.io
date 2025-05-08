@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Jacob | Evan Edmond</title>
-    <link>https://Craskermasker.github.io/author/j-jacob/</link>
-      <atom:link href="https://Craskermasker.github.io/author/j-jacob/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/j-jacob/</link>
+      <atom:link href="http://localhost:1313/author/j-jacob/index.xml" rel="self" type="application/rss+xml" />
     <description>J Jacob</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>J Jacob</title>
-      <link>https://Craskermasker.github.io/author/j-jacob/</link>
+      <link>http://localhost:1313/author/j-jacob/</link>
     </image>
     
     <item>
       <title>Evaluating a Personal Information Pack for Patients with Epilepsy</title>
-      <link>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</link>
+      <link>http://localhost:1313/publication/edmond-2018-evaluating/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</guid>
+      <guid>http://localhost:1313/publication/edmond-2018-evaluating/</guid>
       <description></description>
     </item>
     

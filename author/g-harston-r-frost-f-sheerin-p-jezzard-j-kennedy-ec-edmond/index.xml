@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G Harston, R Frost, F Sheerin, P Jezzard, J Kennedy EC Edmond | Evan Edmond</title>
-    <link>https://Craskermasker.github.io/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</link>
-      <atom:link href="https://Craskermasker.github.io/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</link>
+      <atom:link href="http://localhost:1313/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/index.xml" rel="self" type="application/rss+xml" />
     <description>G Harston, R Frost, F Sheerin, P Jezzard, J Kennedy EC Edmond</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>G Harston, R Frost, F Sheerin, P Jezzard, J Kennedy EC Edmond</title>
-      <link>https://Craskermasker.github.io/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</link>
+      <link>http://localhost:1313/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</link>
     </image>
     
     <item>
       <title>Readout segmented echo planar diffusion-weighted imaging improves image distortion at the cost of infarct discrimination in acute stroke.</title>
-      <link>https://Craskermasker.github.io/publication/ec-2016-readout/</link>
+      <link>http://localhost:1313/publication/ec-2016-readout/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://Craskermasker.github.io/publication/ec-2016-readout/</guid>
+      <guid>http://localhost:1313/publication/ec-2016-readout/</guid>
       <description></description>
     </item>
     
