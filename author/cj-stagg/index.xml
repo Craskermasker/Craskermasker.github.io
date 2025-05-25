@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CJ Stagg | Evan Edmond</title>
-    <link>http://localhost:1313/author/cj-stagg/</link>
-      <atom:link href="http://localhost:1313/author/cj-stagg/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/author/cj-stagg/</link>
+      <atom:link href="https://Craskermasker.github.io/author/cj-stagg/index.xml" rel="self" type="application/rss+xml" />
     <description>CJ Stagg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>CJ Stagg</title>
-      <link>http://localhost:1313/author/cj-stagg/</link>
+      <link>https://Craskermasker.github.io/author/cj-stagg/</link>
     </image>
     
     <item>
       <title>Motor system biomarkers in amyotrophic lateral sclerosis</title>
-      <link>http://localhost:1313/publication/turner-2019-motor/</link>
+      <link>https://Craskermasker.github.io/publication/turner-2019-motor/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/turner-2019-motor/</guid>
+      <guid>https://Craskermasker.github.io/publication/turner-2019-motor/</guid>
       <description></description>
     </item>
     

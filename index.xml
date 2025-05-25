@@ -2,42 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evan Edmond</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/</link>
+      <atom:link href="https://Craskermasker.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Evan Edmond</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 21:24:52 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 18:36:15 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Evan Edmond</title>
-      <link>http://localhost:1313/</link>
+      <link>https://Craskermasker.github.io/</link>
     </image>
     
     <item>
+      <title>RCP Acute Neurology Webinar 2025</title>
+      <link>https://Craskermasker.github.io/talk/rcp-webinar_2025/</link>
+      <pubDate>Sun, 25 May 2025 18:36:15 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/talk/rcp-webinar_2025/</guid>
+      <description>&lt;p&gt;Royal College of Physicians webinar on &amp;ldquo;Front-door&amp;rdquo; neurology as part of acute medicine series aimed at consultant and resident doctors who work on the acute medical take. The webinar is available to view on demand on the RCP Player webpage:
+
+&lt;a href=&#34;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following talks were given, and I chaired the session, along with subsequent panel discussion.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Webinar programme&#34; src=&#34;https://Craskermasker.github.io/talk/rcp-webinar_2025/program.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://Craskermasker.github.io/project/teaching/</link>
+      <pubDate>Sun, 25 May 2025 18:21:54 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/project/teaching/</guid>
+      <description>&lt;p&gt;Project page of overall teaching experience.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;../project/gtc-coding-series&#34;&gt;Green Templeton Coding Series&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCP Acute Neurology Webinar 2025</title>
+      <link>https://Craskermasker.github.io/post/rcp-webinar-2025/</link>
+      <pubDate>Sun, 25 May 2025 18:11:42 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/post/rcp-webinar-2025/</guid>
+      <description>&lt;p&gt;Royal College of Physicians webinar on &amp;ldquo;Front-door&amp;rdquo; neurology as part of acute medicine series aimed at consultant and resident doctors who work on the acute medical take.&lt;/p&gt;
+&lt;p&gt;The following talks were given, and I chaired the session, along with subsequent panel discussion.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Webinar programme&#34; src=&#34;https://Craskermasker.github.io/post/rcp-webinar-2025/program.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The webinar is available to view on demand on the RCP Player webpage:
+
+&lt;a href=&#34;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Global Health</title>
-      <link>http://localhost:1313/project/global-health/</link>
+      <link>https://Craskermasker.github.io/project/global-health/</link>
       <pubDate>Mon, 05 May 2025 21:24:52 +0100</pubDate>
-      <guid>http://localhost:1313/project/global-health/</guid>
+      <guid>https://Craskermasker.github.io/project/global-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABN 2025 poster presentation</title>
-      <link>http://localhost:1313/post/global-health-fellowship/</link>
+      <link>https://Craskermasker.github.io/post/global-health-fellowship/</link>
       <pubDate>Mon, 05 May 2025 21:20:58 +0100</pubDate>
-      <guid>http://localhost:1313/post/global-health-fellowship/</guid>
+      <guid>https://Craskermasker.github.io/post/global-health-fellowship/</guid>
       <description>&lt;p&gt;Poster embedded here. 
 &lt;a href=&#34;./poster_rev2.pdf&#34;&gt;PDF download link&lt;/a&gt;
 Draft preprint 
 &lt;a href=&#34;./preprint.pdf&#34;&gt;PDF download link&lt;/a&gt;
-&lt;object data=&#34;./poster.pdf&#34; type=&#34;application/pdf&#34; width=&#34;75%&#34; height=&#34;800px&#34;&gt;&lt;/p&gt;
+&lt;object data=&#34;./poster_rev2.pdf&#34; type=&#34;application/pdf&#34; width=&#34;75%&#34; height=&#34;800px&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Web Design</title>
-      <link>http://localhost:1313/project/web-design/</link>
+      <link>https://Craskermasker.github.io/project/web-design/</link>
       <pubDate>Wed, 28 Feb 2024 10:42:52 +0000</pubDate>
-      <guid>http://localhost:1313/project/web-design/</guid>
+      <guid>https://Craskermasker.github.io/project/web-design/</guid>
       <description>&lt;p&gt;I enjoy web design - I have regularly used static site builders such as Hugo. I
 have also experimented with Python based frameworks such as Flask for dynamic
 applications.&lt;/p&gt;
@@ -46,9 +84,9 @@ applications.&lt;/p&gt;
     
     <item>
       <title>Wedding Website</title>
-      <link>http://localhost:1313/post/decommission-wedding-website/</link>
+      <link>https://Craskermasker.github.io/post/decommission-wedding-website/</link>
       <pubDate>Wed, 28 Feb 2024 10:16:25 +0000</pubDate>
-      <guid>http://localhost:1313/post/decommission-wedding-website/</guid>
+      <guid>https://Craskermasker.github.io/post/decommission-wedding-website/</guid>
       <description>&lt;p&gt;This is a landing page for my now decommissioned wedding website domain,
 designed with the static site builder 
 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; and the 
@@ -62,41 +100,41 @@ and form inactivated.&lt;/p&gt;
     
     <item>
       <title>Multicentre appraisal of amyotrophic lateral sclerosis biofluid biomarkers shows primacy of blood neurofilament light chain</title>
-      <link>http://localhost:1313/publication/thompson-2022-neurofilament-light-multicentre/</link>
+      <link>https://Craskermasker.github.io/publication/thompson-2022-neurofilament-light-multicentre/</link>
       <pubDate>Thu, 30 Mar 2023 13:32:08 +0100</pubDate>
-      <guid>http://localhost:1313/publication/thompson-2022-neurofilament-light-multicentre/</guid>
+      <guid>https://Craskermasker.github.io/publication/thompson-2022-neurofilament-light-multicentre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic testing in motor neurone disease</title>
-      <link>http://localhost:1313/publication/dharmadasa-2022-genetic-testing-mnd/</link>
+      <link>https://Craskermasker.github.io/publication/dharmadasa-2022-genetic-testing-mnd/</link>
       <pubDate>Thu, 30 Mar 2023 13:31:47 +0100</pubDate>
-      <guid>http://localhost:1313/publication/dharmadasa-2022-genetic-testing-mnd/</guid>
+      <guid>https://Craskermasker.github.io/publication/dharmadasa-2022-genetic-testing-mnd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ALS genetics</title>
-      <link>http://localhost:1313/project/als-genetics/</link>
+      <link>https://Craskermasker.github.io/project/als-genetics/</link>
       <pubDate>Tue, 10 Jan 2023 23:22:23 +0000</pubDate>
-      <guid>http://localhost:1313/project/als-genetics/</guid>
+      <guid>https://Craskermasker.github.io/project/als-genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ALS genetics for the neurology registrar</title>
-      <link>http://localhost:1313/talk/2022_01_mnd_genetics/</link>
+      <link>https://Craskermasker.github.io/talk/2022_01_mnd_genetics/</link>
       <pubDate>Mon, 02 Jan 2023 14:54:38 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2022_01_mnd_genetics/</guid>
+      <guid>https://Craskermasker.github.io/talk/2022_01_mnd_genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Converting Datasets with file_tree</title>
-      <link>http://localhost:1313/post/converting-datasets-filetree-wip/</link>
+      <link>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</link>
       <pubDate>Tue, 26 Apr 2022 14:25:58 +0100</pubDate>
-      <guid>http://localhost:1313/post/converting-datasets-filetree-wip/</guid>
+      <guid>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</guid>
       <description>&lt;p&gt;We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky.
 I recently did this for a consolidated analysis and found that Michiel Cottaar&amp;rsquo;s file_tree module took much of the hassle out.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;file_tree.convert&lt;/code&gt; function can also handle making symlinks to save space and keep source data folders clean, and overwriting prevous runs.
@@ -185,76 +223,76 @@ convert(src_read, target_read, keys, symlink=True)
     
     <item>
       <title>2020 Association of British Neurologists Annual Meeting</title>
-      <link>http://localhost:1313/talk/2020-abn/</link>
+      <link>https://Craskermasker.github.io/talk/2020-abn/</link>
       <pubDate>Fri, 16 Oct 2020 13:50:31 +0100</pubDate>
-      <guid>http://localhost:1313/talk/2020-abn/</guid>
+      <guid>https://Craskermasker.github.io/talk/2020-abn/</guid>
       <description>&lt;iframe src=&#34;https://player.vimeo.com/video/458554473&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>A nudge towards better lumbar puncture practice</title>
-      <link>http://localhost:1313/publication/holland-2020-nudge/</link>
+      <link>https://Craskermasker.github.io/publication/holland-2020-nudge/</link>
       <pubDate>Wed, 16 Sep 2020 13:38:18 +0100</pubDate>
-      <guid>http://localhost:1313/publication/holland-2020-nudge/</guid>
+      <guid>https://Craskermasker.github.io/publication/holland-2020-nudge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making an academic website - PiNG lab meeting</title>
-      <link>http://localhost:1313/talk/2020_07_06_ping_labmeeting_website/</link>
+      <link>https://Craskermasker.github.io/talk/2020_07_06_ping_labmeeting_website/</link>
       <pubDate>Mon, 06 Jul 2020 09:40:56 +0100</pubDate>
-      <guid>http://localhost:1313/talk/2020_07_06_ping_labmeeting_website/</guid>
+      <guid>https://Craskermasker.github.io/talk/2020_07_06_ping_labmeeting_website/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vR3atqBvwFZhXFu7_znEJaetcTnv3shFSlSqR3yHcHrbpbSm5n2XlaJqZWqfkA1FaswtHKHYreIcMLz/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Atraumatic LP needles</title>
-      <link>http://localhost:1313/project/2020_atraumatic_needle/</link>
+      <link>https://Craskermasker.github.io/project/2020_atraumatic_needle/</link>
       <pubDate>Fri, 03 Jul 2020 13:01:16 +0100</pubDate>
-      <guid>http://localhost:1313/project/2020_atraumatic_needle/</guid>
+      <guid>https://Craskermasker.github.io/project/2020_atraumatic_needle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
+      <link>https://Craskermasker.github.io/blog/</link>
       <pubDate>Thu, 02 Jul 2020 21:49:53 +0100</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
+      <guid>https://Craskermasker.github.io/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MRSI</title>
-      <link>http://localhost:1313/project/mrsi/</link>
+      <link>https://Craskermasker.github.io/project/mrsi/</link>
       <pubDate>Thu, 02 Jul 2020 20:20:40 +0100</pubDate>
-      <guid>http://localhost:1313/project/mrsi/</guid>
+      <guid>https://Craskermasker.github.io/project/mrsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>task fMRI</title>
-      <link>http://localhost:1313/project/fmri/</link>
+      <link>https://Craskermasker.github.io/project/fmri/</link>
       <pubDate>Thu, 02 Jul 2020 20:15:03 +0100</pubDate>
-      <guid>http://localhost:1313/project/fmri/</guid>
+      <guid>https://Craskermasker.github.io/project/fmri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cTMS</title>
-      <link>http://localhost:1313/project/ctms/</link>
+      <link>https://Craskermasker.github.io/project/ctms/</link>
       <pubDate>Tue, 30 Jun 2020 22:33:06 +0100</pubDate>
-      <guid>http://localhost:1313/project/ctms/</guid>
+      <guid>https://Craskermasker.github.io/project/ctms/</guid>
       <description>&lt;p&gt;Pilot study testing feasibility of applying controllable pulse width TMS to understanding selective vulnerability in ALS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/post/hello-world/</link>
+      <link>https://Craskermasker.github.io/post/hello-world/</link>
       <pubDate>Tue, 30 Jun 2020 18:42:17 +0100</pubDate>
-      <guid>http://localhost:1313/post/hello-world/</guid>
+      <guid>https://Craskermasker.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;This was surprisingly easy to set up! The guide to getting started here is excellent:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sourcethemes.com/academic/docs/install/&lt;/a&gt;&lt;/p&gt;
@@ -266,140 +304,122 @@ convert(src_read, target_read, keys, symlink=True)
     
     <item>
       <title>GTC coding series</title>
-      <link>http://localhost:1313/project/gtc-coding-series/</link>
+      <link>https://Craskermasker.github.io/project/gtc-coding-series/</link>
       <pubDate>Tue, 30 Jun 2020 18:38:24 +0100</pubDate>
-      <guid>http://localhost:1313/project/gtc-coding-series/</guid>
+      <guid>https://Craskermasker.github.io/project/gtc-coding-series/</guid>
       <description>&lt;p&gt;A series of interactive tutorials aimed at medical students. While this mainly consists of links to better resources, I have put together a few very brief interactive notebooks to give a taste of what can be done.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RoboDoc: Critical ethical issues to consider for the design and development of a robotic doctor experience</title>
-      <link>http://localhost:1313/publication/edmond-2020-robodoc/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-2020-robodoc/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-2020-robodoc/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-2020-robodoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>027 Promoting atraumatic needle usage for lumbar puncture in neurology: the power of the default</title>
-      <link>http://localhost:1313/publication/holland-2019027/</link>
+      <link>https://Craskermasker.github.io/publication/holland-2019027/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holland-2019027/</guid>
+      <guid>https://Craskermasker.github.io/publication/holland-2019027/</guid>
       <description></description>
     </item>
     
     <item>
       <title>267 Motor system biomarkers in amyotrophic lateral sclerosis</title>
-      <link>http://localhost:1313/publication/edmond-2019267/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-2019267/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-2019267/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-2019267/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motor system biomarkers in amyotrophic lateral sclerosis</title>
-      <link>http://localhost:1313/publication/turner-2019-motor/</link>
+      <link>https://Craskermasker.github.io/publication/turner-2019-motor/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/turner-2019-motor/</guid>
+      <guid>https://Craskermasker.github.io/publication/turner-2019-motor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Therapeutic non-invasive brain stimulation in amyotrophic lateral sclerosis: rationale, methods and experience</title>
-      <link>http://localhost:1313/publication/edmond-2019-therapeutic/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-2019-therapeutic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-2019-therapeutic/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-2019-therapeutic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>http://localhost:1313/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Evaluating a Personal Information Pack for Patients with Epilepsy</title>
-      <link>http://localhost:1313/publication/edmond-2018-evaluating/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-2018-evaluating/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The relationship of perivascular adipose tissue and atherosclerosis in the aorta and carotid arteries, determined by magnetic resonance imaging</title>
-      <link>http://localhost:1313/publication/alkhalil-2018-relationship/</link>
+      <link>https://Craskermasker.github.io/publication/alkhalil-2018-relationship/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alkhalil-2018-relationship/</guid>
+      <guid>https://Craskermasker.github.io/publication/alkhalil-2018-relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>THUR 075 Evaluating a personal information pack in epilepsy</title>
-      <link>http://localhost:1313/publication/edmond-2018-thur/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-2018-thur/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-2018-thur/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-2018-thur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Injuries in quidditch: a descriptive epidemiological study</title>
-      <link>http://localhost:1313/publication/pennington-2017-injuries/</link>
+      <link>https://Craskermasker.github.io/publication/pennington-2017-injuries/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pennington-2017-injuries/</guid>
+      <guid>https://Craskermasker.github.io/publication/pennington-2017-injuries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hemifacial spasm: Objective computation of vertebrobasilar vascular sinuosity: 1171</title>
-      <link>http://localhost:1313/publication/chan-2016-hemifacial/</link>
+      <link>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chan-2016-hemifacial/</guid>
+      <guid>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Readout segmented echo planar diffusion-weighted imaging improves image distortion at the cost of infarct discrimination in acute stroke.</title>
-      <link>http://localhost:1313/publication/ec-2016-readout/</link>
+      <link>https://Craskermasker.github.io/publication/ec-2016-readout/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ec-2016-readout/</guid>
+      <guid>https://Craskermasker.github.io/publication/ec-2016-readout/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vascular tortuosity in relationship with hypertension and posterior fossa volume in hemifacial spasm</title>
-      <link>http://localhost:1313/publication/edmond-2016-vascular/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-2016-vascular/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-2016-vascular/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-2016-vascular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5 years of tacrolimus preloading in live donor kidney transplantation.</title>
-      <link>http://localhost:1313/publication/edmond-20155/</link>
+      <link>https://Craskermasker.github.io/publication/edmond-20155/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/edmond-20155/</guid>
+      <guid>https://Craskermasker.github.io/publication/edmond-20155/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adipose tissue surrounding diseased coronary arteries demon-strates a pro-atherogenic profile</title>
-      <link>http://localhost:1313/publication/digby-2010-adipose/</link>
+      <link>https://Craskermasker.github.io/publication/digby-2010-adipose/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/digby-2010-adipose/</guid>
+      <guid>https://Craskermasker.github.io/publication/digby-2010-adipose/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L Chan | Evan Edmond</title>
-    <link>http://localhost:1313/author/l-chan/</link>
-      <atom:link href="http://localhost:1313/author/l-chan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/author/l-chan/</link>
+      <atom:link href="https://Craskermasker.github.io/author/l-chan/index.xml" rel="self" type="application/rss+xml" />
     <description>L Chan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>L Chan</title>
-      <link>http://localhost:1313/author/l-chan/</link>
+      <link>https://Craskermasker.github.io/author/l-chan/</link>
     </image>
     
     <item>
       <title>Hemifacial spasm: Objective computation of vertebrobasilar vascular sinuosity: 1171</title>
-      <link>http://localhost:1313/publication/chan-2016-hemifacial/</link>
+      <link>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chan-2016-hemifacial/</guid>
+      <guid>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</guid>
       <description></description>
     </item>
     

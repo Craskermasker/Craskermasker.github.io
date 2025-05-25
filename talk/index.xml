@@ -2,38 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Evan Edmond</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/talk/</link>
+      <atom:link href="https://Craskermasker.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 14:54:38 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 18:36:15 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://Craskermasker.github.io/talk/</link>
     </image>
     
     <item>
+      <title>RCP Acute Neurology Webinar 2025</title>
+      <link>https://Craskermasker.github.io/talk/rcp-webinar_2025/</link>
+      <pubDate>Sun, 25 May 2025 18:36:15 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/talk/rcp-webinar_2025/</guid>
+      <description>&lt;p&gt;Royal College of Physicians webinar on &amp;ldquo;Front-door&amp;rdquo; neurology as part of acute medicine series aimed at consultant and resident doctors who work on the acute medical take. The webinar is available to view on demand on the RCP Player webpage:
+
+&lt;a href=&#34;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following talks were given, and I chaired the session, along with subsequent panel discussion.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Webinar programme&#34; src=&#34;https://Craskermasker.github.io/talk/rcp-webinar_2025/program.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ALS genetics for the neurology registrar</title>
-      <link>http://localhost:1313/talk/2022_01_mnd_genetics/</link>
+      <link>https://Craskermasker.github.io/talk/2022_01_mnd_genetics/</link>
       <pubDate>Mon, 02 Jan 2023 14:54:38 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2022_01_mnd_genetics/</guid>
+      <guid>https://Craskermasker.github.io/talk/2022_01_mnd_genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020 Association of British Neurologists Annual Meeting</title>
-      <link>http://localhost:1313/talk/2020-abn/</link>
+      <link>https://Craskermasker.github.io/talk/2020-abn/</link>
       <pubDate>Fri, 16 Oct 2020 13:50:31 +0100</pubDate>
-      <guid>http://localhost:1313/talk/2020-abn/</guid>
+      <guid>https://Craskermasker.github.io/talk/2020-abn/</guid>
       <description>&lt;iframe src=&#34;https://player.vimeo.com/video/458554473&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Making an academic website - PiNG lab meeting</title>
-      <link>http://localhost:1313/talk/2020_07_06_ping_labmeeting_website/</link>
+      <link>https://Craskermasker.github.io/talk/2020_07_06_ping_labmeeting_website/</link>
       <pubDate>Mon, 06 Jul 2020 09:40:56 +0100</pubDate>
-      <guid>http://localhost:1313/talk/2020_07_06_ping_labmeeting_website/</guid>
+      <guid>https://Craskermasker.github.io/talk/2020_07_06_ping_labmeeting_website/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vR3atqBvwFZhXFu7_znEJaetcTnv3shFSlSqR3yHcHrbpbSm5n2XlaJqZWqfkA1FaswtHKHYreIcMLz/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>

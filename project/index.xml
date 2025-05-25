@@ -2,29 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Evan Edmond</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/project/</link>
+      <atom:link href="https://Craskermasker.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 21:24:52 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 18:21:54 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://Craskermasker.github.io/project/</link>
     </image>
     
     <item>
+      <title>Teaching</title>
+      <link>https://Craskermasker.github.io/project/teaching/</link>
+      <pubDate>Sun, 25 May 2025 18:21:54 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/project/teaching/</guid>
+      <description>&lt;p&gt;Project page of overall teaching experience.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;../project/gtc-coding-series&#34;&gt;Green Templeton Coding Series&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Global Health</title>
-      <link>http://localhost:1313/project/global-health/</link>
+      <link>https://Craskermasker.github.io/project/global-health/</link>
       <pubDate>Mon, 05 May 2025 21:24:52 +0100</pubDate>
-      <guid>http://localhost:1313/project/global-health/</guid>
+      <guid>https://Craskermasker.github.io/project/global-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Design</title>
-      <link>http://localhost:1313/project/web-design/</link>
+      <link>https://Craskermasker.github.io/project/web-design/</link>
       <pubDate>Wed, 28 Feb 2024 10:42:52 +0000</pubDate>
-      <guid>http://localhost:1313/project/web-design/</guid>
+      <guid>https://Craskermasker.github.io/project/web-design/</guid>
       <description>&lt;p&gt;I enjoy web design - I have regularly used static site builders such as Hugo. I
 have also experimented with Python based frameworks such as Flask for dynamic
 applications.&lt;/p&gt;
@@ -33,50 +44,50 @@ applications.&lt;/p&gt;
     
     <item>
       <title>ALS genetics</title>
-      <link>http://localhost:1313/project/als-genetics/</link>
+      <link>https://Craskermasker.github.io/project/als-genetics/</link>
       <pubDate>Tue, 10 Jan 2023 23:22:23 +0000</pubDate>
-      <guid>http://localhost:1313/project/als-genetics/</guid>
+      <guid>https://Craskermasker.github.io/project/als-genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atraumatic LP needles</title>
-      <link>http://localhost:1313/project/2020_atraumatic_needle/</link>
+      <link>https://Craskermasker.github.io/project/2020_atraumatic_needle/</link>
       <pubDate>Fri, 03 Jul 2020 13:01:16 +0100</pubDate>
-      <guid>http://localhost:1313/project/2020_atraumatic_needle/</guid>
+      <guid>https://Craskermasker.github.io/project/2020_atraumatic_needle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MRSI</title>
-      <link>http://localhost:1313/project/mrsi/</link>
+      <link>https://Craskermasker.github.io/project/mrsi/</link>
       <pubDate>Thu, 02 Jul 2020 20:20:40 +0100</pubDate>
-      <guid>http://localhost:1313/project/mrsi/</guid>
+      <guid>https://Craskermasker.github.io/project/mrsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>task fMRI</title>
-      <link>http://localhost:1313/project/fmri/</link>
+      <link>https://Craskermasker.github.io/project/fmri/</link>
       <pubDate>Thu, 02 Jul 2020 20:15:03 +0100</pubDate>
-      <guid>http://localhost:1313/project/fmri/</guid>
+      <guid>https://Craskermasker.github.io/project/fmri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cTMS</title>
-      <link>http://localhost:1313/project/ctms/</link>
+      <link>https://Craskermasker.github.io/project/ctms/</link>
       <pubDate>Tue, 30 Jun 2020 22:33:06 +0100</pubDate>
-      <guid>http://localhost:1313/project/ctms/</guid>
+      <guid>https://Craskermasker.github.io/project/ctms/</guid>
       <description>&lt;p&gt;Pilot study testing feasibility of applying controllable pulse width TMS to understanding selective vulnerability in ALS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GTC coding series</title>
-      <link>http://localhost:1313/project/gtc-coding-series/</link>
+      <link>https://Craskermasker.github.io/project/gtc-coding-series/</link>
       <pubDate>Tue, 30 Jun 2020 18:38:24 +0100</pubDate>
-      <guid>http://localhost:1313/project/gtc-coding-series/</guid>
+      <guid>https://Craskermasker.github.io/project/gtc-coding-series/</guid>
       <description>&lt;p&gt;A series of interactive tutorials aimed at medical students. While this mainly consists of links to better resources, I have put together a few very brief interactive notebooks to give a taste of what can be done.&lt;/p&gt;
 </description>
     </item>

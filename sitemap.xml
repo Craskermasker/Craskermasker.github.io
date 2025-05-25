@@ -2,380 +2,383 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://Craskermasker.github.io/</loc>
+    <lastmod>2025-05-25T18:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/talk/rcp-webinar_2025/</loc>
+    <lastmod>2025-05-25T18:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/talk/</loc>
+    <lastmod>2025-05-25T18:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/project/</loc>
+    <lastmod>2025-05-25T18:21:54+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/tags/</loc>
+    <lastmod>2025-05-25T18:21:54+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/tag/teaching/</loc>
+    <lastmod>2025-05-25T18:21:54+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/project/teaching/</loc>
+    <lastmod>2025-05-25T18:21:54+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/post/</loc>
+    <lastmod>2025-05-25T18:11:42+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/post/rcp-webinar-2025/</loc>
+    <lastmod>2025-05-25T18:11:42+01:00</lastmod>
+  </url><url>
+    <loc>https://Craskermasker.github.io/authors/</loc>
     <lastmod>2025-05-05T21:24:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Craskermasker.github.io/author/evan-edmond/</loc>
     <lastmod>2025-05-05T21:24:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/evan-edmond/</loc>
+    <loc>https://Craskermasker.github.io/project/global-health/</loc>
     <lastmod>2025-05-05T21:24:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/global-health/</loc>
-    <lastmod>2025-05-05T21:24:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/</loc>
-    <lastmod>2025-05-05T21:24:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/global-health-fellowship/</loc>
+    <loc>https://Craskermasker.github.io/post/global-health-fellowship/</loc>
     <lastmod>2025-05-05T21:20:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-05-05T21:20:58+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/web-design/</loc>
+    <loc>https://Craskermasker.github.io/project/web-design/</loc>
     <lastmod>2024-02-28T10:42:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/decommission-wedding-website/</loc>
+    <loc>https://Craskermasker.github.io/post/decommission-wedding-website/</loc>
     <lastmod>2024-02-28T10:16:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
+    <loc>https://Craskermasker.github.io/publication-type/2/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alexander-g-thompson/</loc>
+    <loc>https://Craskermasker.github.io/author/alexander-g-thompson/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/andrea-malaspina/</loc>
+    <loc>https://Craskermasker.github.io/author/andrea-malaspina/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/christopher-j-mcdermott/</loc>
+    <loc>https://Craskermasker.github.io/author/christopher-j-mcdermott/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/delia-gagliardi/</loc>
+    <loc>https://Craskermasker.github.io/author/delia-gagliardi/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/elizabeth-gray/</loc>
+    <loc>https://Craskermasker.github.io/author/elizabeth-gray/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/emily-feneberg/</loc>
+    <loc>https://Craskermasker.github.io/author/emily-feneberg/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/evan-c-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/evan-c-edmond/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jakub-scaber/</loc>
+    <loc>https://Craskermasker.github.io/author/jakub-scaber/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/janine-kirby/</loc>
+    <loc>https://Craskermasker.github.io/author/janine-kirby/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/kevin-talbot/</loc>
+    <loc>https://Craskermasker.github.io/author/kevin-talbot/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/lucy-farrimond/</loc>
+    <loc>https://Craskermasker.github.io/author/lucy-farrimond/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/martin-r-turner/</loc>
+    <loc>https://Craskermasker.github.io/author/martin-r-turner/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/thompson-2022-neurofilament-light-multicentre/</loc>
+    <loc>https://Craskermasker.github.io/publication/thompson-2022-neurofilament-light-multicentre/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/nick-verber/</loc>
+    <loc>https://Craskermasker.github.io/author/nick-verber/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ozlem-yildiz/</loc>
+    <loc>https://Craskermasker.github.io/author/ozlem-yildiz/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/pamela-gray/</loc>
+    <loc>https://Craskermasker.github.io/author/pamela-gray/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/pamela-j-shaw/</loc>
+    <loc>https://Craskermasker.github.io/author/pamela-j-shaw/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/pietro-fratta/</loc>
+    <loc>https://Craskermasker.github.io/author/pietro-fratta/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://Craskermasker.github.io/publication_types/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://Craskermasker.github.io/publication/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/sanjay-g-manohar/</loc>
+    <loc>https://Craskermasker.github.io/author/sanjay-g-manohar/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/stephanie-r-shepheard/</loc>
+    <loc>https://Craskermasker.github.io/author/stephanie-r-shepheard/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/thanuja-dharmadasa/</loc>
+    <loc>https://Craskermasker.github.io/author/thanuja-dharmadasa/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/thomas-m-jenkins/</loc>
+    <loc>https://Craskermasker.github.io/author/thomas-m-jenkins/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/vittoria-lombardi/</loc>
+    <loc>https://Craskermasker.github.io/author/vittoria-lombardi/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/yoana-bobeva/</loc>
+    <loc>https://Craskermasker.github.io/author/yoana-bobeva/</loc>
     <lastmod>2023-03-30T13:32:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alexander-thompson/</loc>
+    <loc>https://Craskermasker.github.io/author/alexander-thompson/</loc>
     <lastmod>2023-03-30T13:31:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/evan-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/evan-edmond/</loc>
     <lastmod>2023-03-30T13:31:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/dharmadasa-2022-genetic-testing-mnd/</loc>
+    <loc>https://Craskermasker.github.io/publication/dharmadasa-2022-genetic-testing-mnd/</loc>
     <lastmod>2023-03-30T13:31:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/rachael-marsden/</loc>
+    <loc>https://Craskermasker.github.io/author/rachael-marsden/</loc>
     <lastmod>2023-03-30T13:31:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/als-genetics/</loc>
+    <loc>https://Craskermasker.github.io/project/als-genetics/</loc>
     <lastmod>2023-01-10T23:22:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/clinical/</loc>
+    <loc>https://Craskermasker.github.io/tag/clinical/</loc>
     <lastmod>2023-01-10T23:22:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-01-10T23:22:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/talk/2022_01_mnd_genetics/</loc>
+    <loc>https://Craskermasker.github.io/talk/2022_01_mnd_genetics/</loc>
     <lastmod>2023-01-02T14:54:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/</loc>
-    <lastmod>2023-01-02T14:54:38+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/converting-datasets-filetree-wip/</loc>
+    <loc>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</loc>
     <lastmod>2022-04-26T14:25:58+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/2020-abn/</loc>
+    <loc>https://Craskermasker.github.io/talk/2020-abn/</loc>
     <lastmod>2020-10-16T13:50:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/holland-2020-nudge/</loc>
+    <loc>https://Craskermasker.github.io/publication/holland-2020-nudge/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/catherine-moore/</loc>
+    <loc>https://Craskermasker.github.io/author/catherine-moore/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/christian-holland/</loc>
+    <loc>https://Craskermasker.github.io/author/christian-holland/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/johannes-c-klein/</loc>
+    <loc>https://Craskermasker.github.io/author/johannes-c-klein/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/vanessa-tobert/</loc>
+    <loc>https://Craskermasker.github.io/author/vanessa-tobert/</loc>
     <lastmod>2020-09-16T13:38:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talk/2020_07_06_ping_labmeeting_website/</loc>
+    <loc>https://Craskermasker.github.io/talk/2020_07_06_ping_labmeeting_website/</loc>
     <lastmod>2020-07-06T09:40:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/2020_atraumatic_needle/</loc>
+    <loc>https://Craskermasker.github.io/project/2020_atraumatic_needle/</loc>
     <lastmod>2020-07-03T13:01:16+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://Craskermasker.github.io/blog/</loc>
     <lastmod>2020-07-02T21:49:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/mri/</loc>
+    <loc>https://Craskermasker.github.io/tag/mri/</loc>
     <lastmod>2020-07-02T20:20:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/mrsi/</loc>
+    <loc>https://Craskermasker.github.io/project/mrsi/</loc>
     <lastmod>2020-07-02T20:20:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/fmri/</loc>
+    <loc>https://Craskermasker.github.io/project/fmri/</loc>
     <lastmod>2020-07-02T20:15:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/ctms/</loc>
+    <loc>https://Craskermasker.github.io/project/ctms/</loc>
     <lastmod>2020-06-30T22:33:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/tms/</loc>
+    <loc>https://Craskermasker.github.io/tag/tms/</loc>
     <lastmod>2020-06-30T22:33:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/hello-world/</loc>
+    <loc>https://Craskermasker.github.io/post/hello-world/</loc>
     <lastmod>2020-06-30T18:42:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/gtc-coding-series/</loc>
+    <loc>https://Craskermasker.github.io/project/gtc-coding-series/</loc>
     <lastmod>2020-06-30T18:38:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/teaching/</loc>
-    <lastmod>2020-06-30T18:38:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/edmond-prakash/</loc>
+    <loc>https://Craskermasker.github.io/author/edmond-prakash/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/fiona-carroll/</loc>
+    <loc>https://Craskermasker.github.io/author/fiona-carroll/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-2020-robodoc/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-2020-robodoc/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/0/</loc>
+    <loc>https://Craskermasker.github.io/publication-type/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/holland-2019027/</loc>
+    <loc>https://Craskermasker.github.io/publication/holland-2019027/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-2019267/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-2019267/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/charlotte-j-stagg/</loc>
+    <loc>https://Craskermasker.github.io/author/charlotte-j-stagg/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/cj-stagg/</loc>
+    <loc>https://Craskermasker.github.io/author/cj-stagg/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ec-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/ec-edmond/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/james-allen/</loc>
+    <loc>https://Craskermasker.github.io/author/james-allen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/k-talbot/</loc>
+    <loc>https://Craskermasker.github.io/author/k-talbot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/kirsty-durley/</loc>
+    <loc>https://Craskermasker.github.io/author/kirsty-durley/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/m-proudfoot/</loc>
+    <loc>https://Craskermasker.github.io/author/m-proudfoot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/malcolm-proudfoot/</loc>
+    <loc>https://Craskermasker.github.io/author/malcolm-proudfoot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/turner-2019-motor/</loc>
+    <loc>https://Craskermasker.github.io/publication/turner-2019-motor/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mr-turner/</loc>
+    <loc>https://Craskermasker.github.io/author/mr-turner/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/r-menke/</loc>
+    <loc>https://Craskermasker.github.io/author/r-menke/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ricarda-menke/</loc>
+    <loc>https://Craskermasker.github.io/author/ricarda-menke/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-2019-therapeutic/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-2019-therapeutic/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/thomas-moore/</loc>
+    <loc>https://Craskermasker.github.io/author/thomas-moore/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication-type/1/</loc>
+    <loc>https://Craskermasker.github.io/publication-type/1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/a-taylor/</loc>
+    <loc>https://Craskermasker.github.io/author/a-taylor/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alison-taylor/</loc>
+    <loc>https://Craskermasker.github.io/author/alison-taylor/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/e-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/e-edmond/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-2018-evaluating/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-2018-evaluating/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/j-jacob/</loc>
+    <loc>https://Craskermasker.github.io/author/j-jacob/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/janet-e-digby/</loc>
+    <loc>https://Craskermasker.github.io/author/janet-e-digby/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/john-jacob/</loc>
+    <loc>https://Craskermasker.github.io/author/john-jacob/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/laurienne-edgar/</loc>
+    <loc>https://Craskermasker.github.io/author/laurienne-edgar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/matthew-d-robson/</loc>
+    <loc>https://Craskermasker.github.io/author/matthew-d-robson/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mehta-arpan/</loc>
+    <loc>https://Craskermasker.github.io/author/mehta-arpan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/mohammad-alkhalil/</loc>
+    <loc>https://Craskermasker.github.io/author/mohammad-alkhalil/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/omar-omar/</loc>
+    <loc>https://Craskermasker.github.io/author/omar-omar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/robin-p-choudhury/</loc>
+    <loc>https://Craskermasker.github.io/author/robin-p-choudhury/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/alkhalil-2018-relationship/</loc>
+    <loc>https://Craskermasker.github.io/publication/alkhalil-2018-relationship/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-2018-thur/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-2018-thur/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/alastair-faulkner/</loc>
+    <loc>https://Craskermasker.github.io/author/alastair-faulkner/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ashley-cooper/</loc>
+    <loc>https://Craskermasker.github.io/author/ashley-cooper/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/pennington-2017-injuries/</loc>
+    <loc>https://Craskermasker.github.io/publication/pennington-2017-injuries/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/michael-j-reidy/</loc>
+    <loc>https://Craskermasker.github.io/author/michael-j-reidy/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/peter-se-davies/</loc>
+    <loc>https://Craskermasker.github.io/author/peter-se-davies/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/rachel-pennington/</loc>
+    <loc>https://Craskermasker.github.io/author/rachel-pennington/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/e-tan/</loc>
+    <loc>https://Craskermasker.github.io/author/e-tan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/eng-king-tan/</loc>
+    <loc>https://Craskermasker.github.io/author/eng-king-tan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/evan-cyril-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/evan-cyril-edmond/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/g-harston-r-frost-f-sheerin-p-jezzard-j-kennedy-ec-edmond/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/h-li/</loc>
+    <loc>https://Craskermasker.github.io/author/h-li/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/chan-2016-hemifacial/</loc>
+    <loc>https://Craskermasker.github.io/publication/chan-2016-hemifacial/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/hui-hua-li/</loc>
+    <loc>https://Craskermasker.github.io/author/hui-hua-li/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/l-chan/</loc>
+    <loc>https://Craskermasker.github.io/author/l-chan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ling-ling-chan/</loc>
+    <loc>https://Craskermasker.github.io/author/ling-ling-chan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/ec-2016-readout/</loc>
+    <loc>https://Craskermasker.github.io/publication/ec-2016-readout/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/s-sim/</loc>
+    <loc>https://Craskermasker.github.io/author/s-sim/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/samantha-xue-li-sim/</loc>
+    <loc>https://Craskermasker.github.io/author/samantha-xue-li-sim/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-2016-vascular/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-2016-vascular/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/edmond-20155/</loc>
+    <loc>https://Craskermasker.github.io/publication/edmond-20155/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/muthusamy-a-parry-j-edmond-ec/</loc>
+    <loc>https://Craskermasker.github.io/author/muthusamy-a-parry-j-edmond-ec/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/digby-2010-adipose/</loc>
+    <loc>https://Craskermasker.github.io/publication/digby-2010-adipose/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/ilias-kylintireas/</loc>
+    <loc>https://Craskermasker.github.io/author/ilias-kylintireas/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Craskermasker.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/evan-edmond/</loc>
+    <loc>https://Craskermasker.github.io/author/evan-edmond/</loc>
   </url>
 </urlset>

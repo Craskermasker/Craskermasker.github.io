@@ -2,34 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Evan Edmond</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/post/</link>
+      <atom:link href="https://Craskermasker.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 21:20:58 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 18:11:42 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://Craskermasker.github.io/post/</link>
     </image>
     
     <item>
+      <title>RCP Acute Neurology Webinar 2025</title>
+      <link>https://Craskermasker.github.io/post/rcp-webinar-2025/</link>
+      <pubDate>Sun, 25 May 2025 18:11:42 +0100</pubDate>
+      <guid>https://Craskermasker.github.io/post/rcp-webinar-2025/</guid>
+      <description>&lt;p&gt;Royal College of Physicians webinar on &amp;ldquo;Front-door&amp;rdquo; neurology as part of acute medicine series aimed at consultant and resident doctors who work on the acute medical take.&lt;/p&gt;
+&lt;p&gt;The following talks were given, and I chaired the session, along with subsequent panel discussion.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Webinar programme&#34; src=&#34;https://Craskermasker.github.io/post/rcp-webinar-2025/program.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The webinar is available to view on demand on the RCP Player webpage:
+
+&lt;a href=&#34;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://player.rcp.ac.uk/ee/live/Acute-medicine-series-acute-neurology&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ABN 2025 poster presentation</title>
-      <link>http://localhost:1313/post/global-health-fellowship/</link>
+      <link>https://Craskermasker.github.io/post/global-health-fellowship/</link>
       <pubDate>Mon, 05 May 2025 21:20:58 +0100</pubDate>
-      <guid>http://localhost:1313/post/global-health-fellowship/</guid>
+      <guid>https://Craskermasker.github.io/post/global-health-fellowship/</guid>
       <description>&lt;p&gt;Poster embedded here. 
 &lt;a href=&#34;./poster_rev2.pdf&#34;&gt;PDF download link&lt;/a&gt;
 Draft preprint 
 &lt;a href=&#34;./preprint.pdf&#34;&gt;PDF download link&lt;/a&gt;
-&lt;object data=&#34;./poster.pdf&#34; type=&#34;application/pdf&#34; width=&#34;75%&#34; height=&#34;800px&#34;&gt;&lt;/p&gt;
+&lt;object data=&#34;./poster_rev2.pdf&#34; type=&#34;application/pdf&#34; width=&#34;75%&#34; height=&#34;800px&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wedding Website</title>
-      <link>http://localhost:1313/post/decommission-wedding-website/</link>
+      <link>https://Craskermasker.github.io/post/decommission-wedding-website/</link>
       <pubDate>Wed, 28 Feb 2024 10:16:25 +0000</pubDate>
-      <guid>http://localhost:1313/post/decommission-wedding-website/</guid>
+      <guid>https://Craskermasker.github.io/post/decommission-wedding-website/</guid>
       <description>&lt;p&gt;This is a landing page for my now decommissioned wedding website domain,
 designed with the static site builder 
 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; and the 
@@ -43,9 +57,9 @@ and form inactivated.&lt;/p&gt;
     
     <item>
       <title>Converting Datasets with file_tree</title>
-      <link>http://localhost:1313/post/converting-datasets-filetree-wip/</link>
+      <link>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</link>
       <pubDate>Tue, 26 Apr 2022 14:25:58 +0100</pubDate>
-      <guid>http://localhost:1313/post/converting-datasets-filetree-wip/</guid>
+      <guid>https://Craskermasker.github.io/post/converting-datasets-filetree-wip/</guid>
       <description>&lt;p&gt;We often deal with structured imaging datasets, and understanding a different structure, or converting between them for data sharing or analysis can be tricky.
 I recently did this for a consolidated analysis and found that Michiel Cottaar&amp;rsquo;s file_tree module took much of the hassle out.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;file_tree.convert&lt;/code&gt; function can also handle making symlinks to save space and keep source data folders clean, and overwriting prevous runs.
@@ -134,9 +148,9 @@ convert(src_read, target_read, keys, symlink=True)
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/post/hello-world/</link>
+      <link>https://Craskermasker.github.io/post/hello-world/</link>
       <pubDate>Tue, 30 Jun 2020 18:42:17 +0100</pubDate>
-      <guid>http://localhost:1313/post/hello-world/</guid>
+      <guid>https://Craskermasker.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;This was surprisingly easy to set up! The guide to getting started here is excellent:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sourcethemes.com/academic/docs/install/&lt;/a&gt;&lt;/p&gt;

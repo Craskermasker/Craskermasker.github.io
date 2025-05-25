@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachel Pennington | Evan Edmond</title>
-    <link>http://localhost:1313/author/rachel-pennington/</link>
-      <atom:link href="http://localhost:1313/author/rachel-pennington/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Craskermasker.github.io/author/rachel-pennington/</link>
+      <atom:link href="https://Craskermasker.github.io/author/rachel-pennington/index.xml" rel="self" type="application/rss+xml" />
     <description>Rachel Pennington</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Rachel Pennington</title>
-      <link>http://localhost:1313/author/rachel-pennington/</link>
+      <link>https://Craskermasker.github.io/author/rachel-pennington/</link>
     </image>
     
     <item>
       <title>Injuries in quidditch: a descriptive epidemiological study</title>
-      <link>http://localhost:1313/publication/pennington-2017-injuries/</link>
+      <link>https://Craskermasker.github.io/publication/pennington-2017-injuries/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pennington-2017-injuries/</guid>
+      <guid>https://Craskermasker.github.io/publication/pennington-2017-injuries/</guid>
       <description></description>
     </item>
     
