@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ozlem Yildiz | Evan Edmond</title>
-    <link>https://Craskermasker.github.io/author/ozlem-yildiz/</link>
-      <atom:link href="https://Craskermasker.github.io/author/ozlem-yildiz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ozlem-yildiz/</link>
+      <atom:link href="http://localhost:1313/author/ozlem-yildiz/index.xml" rel="self" type="application/rss+xml" />
     <description>Ozlem Yildiz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2023 13:32:08 +0100</lastBuildDate>
     <image>
-      <url>https://Craskermasker.github.io/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu52c3432a9714b9dff44576768deb52e5_42693_512x512_fill_lanczos_center_3.png</url>
       <title>Ozlem Yildiz</title>
-      <link>https://Craskermasker.github.io/author/ozlem-yildiz/</link>
+      <link>http://localhost:1313/author/ozlem-yildiz/</link>
     </image>
     
     <item>
       <title>Multicentre appraisal of amyotrophic lateral sclerosis biofluid biomarkers shows primacy of blood neurofilament light chain</title>
-      <link>https://Craskermasker.github.io/publication/thompson-2022-neurofilament-light-multicentre/</link>
+      <link>http://localhost:1313/publication/thompson-2022-neurofilament-light-multicentre/</link>
       <pubDate>Thu, 30 Mar 2023 13:32:08 +0100</pubDate>
-      <guid>https://Craskermasker.github.io/publication/thompson-2022-neurofilament-light-multicentre/</guid>
+      <guid>http://localhost:1313/publication/thompson-2022-neurofilament-light-multicentre/</guid>
       <description></description>
     </item>
     
